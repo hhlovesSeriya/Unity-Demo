@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 133ee80d9022fab4397cbd5618bc6aa3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AM165_019
+    100002: AM165_020
+    100004: AM165_020_1
+    100006: AM165_020_2
+    100008: AM165_023
+    100010: AM165_068
+    100012: AM165_070
+    100014: "Cinema_4D_\u7F16\u8F91\u5668"
+    100016: ere
+    100018: //RootNode
+    100020: Forester_Rock
+    100022: Forester_Rock_1
+    100024: Forester_Rock_2
+    100026: Forester_Rock_3
+    100028: Forester_Rock_4
+    100030: Redshift_Sun
+    100032: "RS_\u5706\u9876\u706F"
+    100034: "\u5E73\u9762"
+    400000: AM165_019
+    400002: AM165_020
+    400004: AM165_020_1
+    400006: AM165_020_2
+    400008: AM165_023
+    400010: AM165_068
+    400012: AM165_070
+    400014: "Cinema_4D_\u7F16\u8F91\u5668"
+    400016: ere
+    400018: //RootNode
+    400020: Forester_Rock
+    400022: Forester_Rock_1
+    400024: Forester_Rock_2
+    400026: Forester_Rock_3
+    400028: Forester_Rock_4
+    400030: Redshift_Sun
+    400032: "RS_\u5706\u9876\u706F"
+    400034: "\u5E73\u9762"
+    2000000: "Cinema_4D_\u7F16\u8F91\u5668"
+    2100000: Fr_Rock
+    2100002: AM165_020
+    2100004: AM165_020_Base
+    2100006: AM165_070_Base
+    2100008: AM165_070_01
+    2100010: AM165_070_02
+    2100012: AM165_070_03
+    2100014: AM165_019
+    2100016: AM165_019_Base
+    2100018: AM165_023_Base
+    2100020: AM165_023
+    2100022: No Name
+    2100024: AM165_067_Base
+    2100026: AM165_068_03
+    2100028: AM165_068_01
+    2100030: AM165_068_02
+    2300000: AM165_019
+    2300002: AM165_020
+    2300004: AM165_020_1
+    2300006: AM165_020_2
+    2300008: AM165_023
+    2300010: AM165_068
+    2300012: AM165_070
+    2300014: Forester_Rock
+    2300016: Forester_Rock_1
+    2300018: Forester_Rock_2
+    2300020: Forester_Rock_3
+    2300022: Forester_Rock_4
+    2300024: "\u5E73\u9762"
+    3300000: AM165_019
+    3300002: AM165_020
+    3300004: AM165_020_1
+    3300006: AM165_020_2
+    3300008: AM165_023
+    3300010: AM165_068
+    3300012: AM165_070
+    3300014: Forester_Rock
+    3300016: Forester_Rock_1
+    3300018: Forester_Rock_2
+    3300020: Forester_Rock_3
+    3300022: Forester_Rock_4
+    3300024: "\u5E73\u9762"
+    4300000: Forester_Rock_4
+    4300002: Forester_Rock_3
+    4300004: Forester_Rock_2
+    4300006: Forester_Rock_1
+    4300008: Forester_Rock
+    4300010: AM165_020_2
+    4300012: AM165_020_1
+    4300014: AM165_020
+    4300016: AM165_070
+    4300018: AM165_019
+    4300020: AM165_023
+    4300022: AM165_068
+    4300024: "\u5E73\u9762"
+    10800000: Redshift_Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
